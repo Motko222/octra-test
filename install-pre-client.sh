@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt install python3.10-venv
+
 cd /root
 mkdir octra
 cd octra
