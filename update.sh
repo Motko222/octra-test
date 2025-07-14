@@ -1,7 +1,5 @@
 #!/bin/bash
 
-apt install python3.10-venv
-
 cd /root/octra_pre_client
 git pull
 rm -r venv
