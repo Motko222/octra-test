@@ -1,6 +1,4 @@
 #!/bin/bash
 
-cd /root/octra_pre_client
-source venv/bin/activate
-python cli.py
-deactivate
+cd /root/ocs01-test/target/release
+./ocs01-test
